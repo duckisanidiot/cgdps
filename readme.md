@@ -1,2 +1,2 @@
-# CGDPS (temporary name)
+# CGDPS
 todo
